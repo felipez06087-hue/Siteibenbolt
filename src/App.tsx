@@ -4,6 +4,7 @@ import NewsBar from './components/NewsBar';
 import About from './components/About';
 import Services from './components/Services';
 import Ministries from './components/Ministries';
+import IBSR from './components/IBSR';
 import Contribution from './components/Contribution';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
@@ -18,6 +19,7 @@ function App() {
         <About />
         <Services />
         <Ministries />
+        <IBSR />
         <Contribution />
         <Contact />
       </main>

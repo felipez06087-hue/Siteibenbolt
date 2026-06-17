@@ -45,14 +45,19 @@ export default function About() {
 
         <div className="lg:col-span-5 relative">
           <div className="absolute -top-4 -left-4 w-full h-full border border-brandYellow/20 -z-10 translate-x-1 translate-y-1" />
-          <div className="relative bg-zinc-900 aspect-square overflow-hidden border-2 border-brandYellow flex items-center justify-center">
+          <div className="relative overflow-hidden border-2 border-brandYellow">
             <img
-              src="/WhatsApp_Image_2026-06-16_at_14.19.02.jpeg"
-              alt="Logo IBEN"
-              className="w-3/4 h-3/4 object-contain p-4 transition-all duration-700 hover:scale-105"
+              src="/image.png"
+              alt="Congregação IBEN"
+              className="w-full h-full object-cover transition-all duration-700 hover:scale-105"
             />
-            <div className="absolute bottom-0 left-0 bg-brandYellow text-black p-4 font-heading text-xs font-black tracking-widest">
-              BARUERI — SP
+            <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/80 to-transparent p-4">
+              <span className="block font-heading text-xs font-black tracking-widest text-brandYellow uppercase">
+                NOSSA CONGREGAÇÃO
+              </span>
+              <span className="block text-white/80 text-[10px] tracking-wider uppercase mt-0.5">
+                BARUERI — SP
+              </span>
             </div>
           </div>
         </div>

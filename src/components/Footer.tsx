@@ -5,11 +5,7 @@ export default function Footer() {
     <footer className="bg-black border-t border-brandBorder py-12 px-6">
       <div className="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-6">
         <div className="flex items-center space-x-3">
-          <img
-            src="/WhatsApp_Image_2026-06-16_at_14.19.02.jpeg"
-            alt="Logo IBEN"
-            className="h-12 w-auto object-contain"
-          />
+          <span className="font-heading font-black text-white text-2xl tracking-widest">IBEN</span>
           <div className="text-[10px] font-bold tracking-widest uppercase text-zinc-500 pl-3 border-l border-zinc-800 leading-tight">
             Igreja Batista<br />no Engenho Novo<br /><span className="text-zinc-700">Barueri — SP</span>
           </div>

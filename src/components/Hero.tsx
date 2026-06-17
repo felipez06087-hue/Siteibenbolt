@@ -11,22 +11,18 @@ export default function Hero() {
       <div className="absolute inset-0 hero-overlay z-10" />
 
       <div className="relative z-20 max-w-5xl mx-auto px-6 text-center mt-12">
-        <div className="flex justify-center mb-8">
-          <img
-            src="/WhatsApp_Image_2026-06-16_at_14.19.02.jpeg"
-            alt="Logo IBEN"
-            className="h-36 w-auto object-contain drop-shadow-2xl"
-          />
-        </div>
-        <span className="inline-block bg-brandYellow text-black text-xs font-black tracking-[0.3em] uppercase px-4 py-1.5 mb-6">
+        <span className="inline-block bg-brandYellow text-black text-xs font-black tracking-[0.3em] uppercase px-4 py-1.5 mb-8">
           SEJA BEM-VINDO À IBEN
         </span>
-        <h1 className="font-heading text-4xl sm:text-6xl md:text-8xl font-black tracking-tighter text-white leading-none mb-6 uppercase">
+        <h1 className="font-heading text-4xl sm:text-6xl md:text-8xl font-black tracking-tighter text-white leading-none mb-4 uppercase">
           IGREJA BATISTA<br className="hidden md:block" />
           <span className="text-transparent" style={{ WebkitTextStroke: '1.5px #F5C000' }}>
             NO ENGENHO NOVO
           </span>
         </h1>
+        <p className="font-heading font-black text-white/30 text-5xl sm:text-7xl md:text-9xl tracking-[0.3em] mb-6 select-none">
+          IBEN
+        </p>
         <p className="text-zinc-400 font-sans text-sm sm:text-lg md:text-xl max-w-2xl mx-auto mb-10 tracking-wide font-light">
           Uma comunidade ativa em Barueri, focada no verdadeiro evangelho de Cristo, resgatando vidas e construindo relacionamentos profundos.
         </p>
