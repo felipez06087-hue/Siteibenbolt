@@ -52,9 +52,6 @@ export default function IBSR() {
                 Inscreva-se Agora
                 <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
               </a>
-              <p className="self-center text-[11px] text-zinc-500 uppercase tracking-widest">
-                Inscrição gratuita via formulário
-              </p>
             </div>
           </div>
 

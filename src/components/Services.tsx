@@ -17,7 +17,7 @@ const servicesData = [
   },
   {
     day: 'QUARTA-FEIRA',
-    title: 'CULTO MIDWEEK',
+    title: 'CULTO',
     description: 'Culto no meio da semana com louvor e mensagem da Palavra de Deus para renovar as forças e fortalecer a fé.',
     time: '19:30h',
     mode: 'Presencial',

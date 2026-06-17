@@ -20,9 +20,6 @@ export default function Hero() {
             NO ENGENHO NOVO
           </span>
         </h1>
-        <p className="font-heading font-black text-white/30 text-5xl sm:text-7xl md:text-9xl tracking-[0.3em] mb-6 select-none">
-          IBEN
-        </p>
         <p className="text-zinc-400 font-sans text-sm sm:text-lg md:text-xl max-w-2xl mx-auto mb-10 tracking-wide font-light">
           Uma comunidade ativa em Barueri, focada no verdadeiro evangelho de Cristo, resgatando vidas e construindo relacionamentos profundos.
         </p>
