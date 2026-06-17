@@ -59,10 +59,8 @@ export default function Contribution() {
                 Transferência Bancária
               </span>
               <div className="grid grid-cols-2 gap-2 text-xs border border-brandBorder/50 p-4 rounded bg-black">
-                <div><strong>Banco:</strong> Bradesco (237)</div>
                 <div><strong>Ag.:</strong> 1529-6</div>
                 <div><strong>Cc.:</strong> 74332-4</div>
-                <div><strong>Favorecido:</strong> IBEN</div>
               </div>
             </div>
           </div>
