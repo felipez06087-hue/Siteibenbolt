@@ -5,7 +5,7 @@ export default function Contribution() {
   const [copied, setCopied] = useState(false);
 
   const copyPixKey = () => {
-    navigator.clipboard.writeText('12.345.678/0001-99');
+    navigator.clipboard.writeText('46.517.984/0001-83');
     setCopied(true);
     setTimeout(() => setCopied(false), 4000);
   };
@@ -39,7 +39,7 @@ export default function Contribution() {
                 <span className="text-[10px] text-zinc-400 uppercase bg-zinc-900 px-2 py-0.5 rounded">Rápido</span>
               </div>
               <div className="flex items-center justify-between bg-zinc-950 border border-brandBorder p-3 rounded">
-                <code className="text-xs font-mono font-bold tracking-wider text-white">12.345.678/0001-99</code>
+                <code className="text-xs font-mono font-bold tracking-wider text-white">46.517.984/0001-83</code>
                 <button
                   onClick={copyPixKey}
                   className="text-xs bg-brandYellow text-black px-3 py-1.5 font-bold uppercase hover:bg-yellow-400 transition-colors flex items-center"
@@ -60,8 +60,8 @@ export default function Contribution() {
               </span>
               <div className="grid grid-cols-2 gap-2 text-xs border border-brandBorder/50 p-4 rounded bg-black">
                 <div><strong>Banco:</strong> Bradesco (237)</div>
-                <div><strong>Agência:</strong> 0123-4</div>
-                <div><strong>Conta Corrente:</strong> 98765-4</div>
+                <div><strong>Ag.:</strong> 1529-6</div>
+                <div><strong>Cc.:</strong> 74332-4</div>
                 <div><strong>Favorecido:</strong> IBEN</div>
               </div>
             </div>
