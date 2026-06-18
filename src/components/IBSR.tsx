@@ -25,7 +25,7 @@ export default function IBSR() {
             <div className="w-16 h-1 bg-brandYellow" />
 
             <p className="text-zinc-300 text-sm sm:text-base leading-relaxed font-light">
-              O <strong className="text-white font-semibold">IBSR</strong> é o instituto bíblico extensão da Igreja Batista no Engenho Novo, criado para equipar homens e mulheres com fundamento sólido na Palavra de Deus. Nossa proposta é oferecer ensino bíblico-teológico de qualidade, de forma prática e acessível, para todos que desejam crescer na fé e servir com excelência.
+              O <strong className="text-white font-semibold">IBSR</strong> é o instituto bíblico extensão da Igreja Batista Engenho Novo, criado para equipar homens e mulheres com fundamento sólido na Palavra de Deus. Nossa proposta é oferecer ensino bíblico-teológico de qualidade, de forma prática e acessível, para todos que desejam crescer na fé e servir com excelência.
             </p>
             <p className="text-zinc-400 text-sm leading-relaxed font-light">
               Se você sente o chamado para aprofundar seu conhecimento bíblico, desenvolver liderança cristã ou simplesmente crescer em sua caminhada com Deus, o IBSR é o lugar certo para você.

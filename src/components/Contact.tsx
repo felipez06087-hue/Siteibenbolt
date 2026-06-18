@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { MapPin, Phone, MessageCircle, Youtube, Loader2, Check, ExternalLink } from 'lucide-react';
+import { MapPin, Phone, MessageCircle, Youtube, Instagram, Loader2, Check, ExternalLink } from 'lucide-react';
 
 export default function Contact() {
   const [isSubmitting, setIsSubmitting] = useState(false);
@@ -132,6 +132,14 @@ export default function Contact() {
                 className="inline-flex items-center gap-2 mt-2 bg-red-600 hover:bg-red-500 text-white font-bold uppercase text-xs tracking-widest px-6 py-3 transition-colors"
               >
                 <Youtube className="w-4 h-4" /> YouTube IBEN
+              </a>
+              <a
+                href="https://www.instagram.com/ministerio.iben/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 mt-2 bg-gradient-to-r from-purple-600 via-pink-600 to-orange-500 hover:opacity-90 text-white font-bold uppercase text-xs tracking-widest px-6 py-3 transition-colors"
+              >
+                <Instagram className="w-4 h-4" /> Instagram IBEN
               </a>
             </div>
 

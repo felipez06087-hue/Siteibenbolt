@@ -23,7 +23,7 @@ export default function Header() {
               IBEN
             </span>
             <div className="hidden sm:block text-xs font-bold tracking-widest uppercase text-zinc-500 pl-3 border-l border-zinc-800 leading-tight">
-              Igreja Batista<br />no Engenho Novo
+              Igreja Batista<br />Engenho Novo
             </div>
           </a>
 

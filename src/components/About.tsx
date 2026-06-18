@@ -18,7 +18,7 @@ export default function About() {
           <div className="w-16 h-1 bg-brandYellow" />
 
           <p className="text-zinc-300 text-sm sm:text-base leading-relaxed font-light">
-            A <strong className="text-white font-semibold">Igreja Batista no Engenho Novo, em Barueri</strong>, é uma comunidade cristã comprometida em viver e compartilhar o amor de Deus. Nossa missão é anunciar o Evangelho de Jesus Cristo, promover o crescimento espiritual de cada pessoa e servir nossa cidade com fé, esperança e amor.
+            A <strong className="text-white font-semibold">Igreja Batista Engenho Novo, em Barueri</strong>, é uma comunidade cristã comprometida em viver e compartilhar o amor de Deus. Nossa missão é anunciar o Evangelho de Jesus Cristo, promover o crescimento espiritual de cada pessoa e servir nossa cidade com fé, esperança e amor.
           </p>
           <p className="text-zinc-400 text-sm sm:text-base leading-relaxed font-light">
             Cremos que a Bíblia é a Palavra de Deus e a base para nossa fé e prática. Buscamos glorificar a Deus por meio da adoração, da comunhão entre os irmãos, do ensino bíblico e do serviço ao próximo.

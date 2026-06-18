@@ -7,7 +7,7 @@ export default function Footer() {
         <div className="flex items-center space-x-3">
           <span className="font-heading font-black text-white text-2xl tracking-widest">IBEN</span>
           <div className="text-[10px] font-bold tracking-widest uppercase text-zinc-500 pl-3 border-l border-zinc-800 leading-tight">
-            Igreja Batista<br />no Engenho Novo<br /><span className="text-zinc-700">Barueri — SP</span>
+            Igreja Batista<br />Engenho Novo<br /><span className="text-zinc-700">Barueri — SP</span>
           </div>
         </div>
 
