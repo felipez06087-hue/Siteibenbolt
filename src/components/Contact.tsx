@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import { MapPin, Phone, MessageCircle, Loader2, Check, ExternalLink } from 'lucide-react';
+import { MapPin, Phone, MessageCircle, Youtube, Loader2, Check, ExternalLink } from 'lucide-react';
 
 export default function Contact() {
   const [isSubmitting, setIsSubmitting] = useState(false);
@@ -124,6 +124,14 @@ export default function Contact() {
                 className="inline-flex items-center gap-2 mt-2 bg-green-600 hover:bg-green-500 text-white font-bold uppercase text-xs tracking-widest px-6 py-3 transition-colors"
               >
                 <MessageCircle className="w-4 h-4" /> Abrir WhatsApp
+              </a>
+              <a
+                href="https://www.youtube.com/@MINISTERIOIBEN"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="inline-flex items-center gap-2 mt-2 bg-red-600 hover:bg-red-500 text-white font-bold uppercase text-xs tracking-widest px-6 py-3 transition-colors"
+              >
+                <Youtube className="w-4 h-4" /> YouTube IBEN
               </a>
             </div>
 

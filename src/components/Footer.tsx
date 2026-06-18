@@ -30,7 +30,7 @@ export default function Footer() {
               <Facebook className="w-5 h-5" />
             </a>
             <a
-              href="https://youtube.com"
+              href="https://www.youtube.com/@MINISTERIOIBEN"
               target="_blank"
               rel="noopener noreferrer"
               className="text-zinc-500 hover:text-brandYellow transition-colors"
